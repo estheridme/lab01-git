@@ -5,6 +5,8 @@ body {
 }
 h1 {
     color: #0072ce;
+    text-align: center;
+    border-bottom: 3px solid #ce00a8;
+    padding-bottom: 20px;
 }
-h1 { text-align: center; border-bottom: 3px solid #0072ce; padding-botom: 10px;
-}
+h1 { text-align: center; border-bottom: 3px solid #0072ce; padding-botom: 10px;}
